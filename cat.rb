@@ -8,7 +8,4 @@ class Cat < Animal
   def do_nothing
   end
 
-  def jump
-    puts "Jump"
-  end
 end
