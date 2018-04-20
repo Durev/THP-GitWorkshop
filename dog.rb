@@ -12,6 +12,6 @@ class Dog < Animal
     run
 
     ### bug to fix ###
-    p "name catches the ball in mid air! What a good boy !"
+    p "#{name} catches the ball in mid air! What a good boy !"
   end
 end
