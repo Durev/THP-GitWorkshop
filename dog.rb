@@ -4,9 +4,6 @@ class Dog < Animal
   def bark
   end
 
-  def be_a_good_boy
-    p "My name is #{name} and I iz a good boy"
-  end
 
   def fetch_ball
     run
